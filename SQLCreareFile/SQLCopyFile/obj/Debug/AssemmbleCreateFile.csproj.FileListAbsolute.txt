@@ -1,0 +1,14 @@
+D:\Project\C#\SQLCopyFile\SQLCopyFile\bin\Debug\SQLCreateFile.dll
+D:\Project\C#\SQLCopyFile\SQLCopyFile\bin\Debug\SQLCreateFile.pdb
+D:\Project\C#\SQLCopyFile\SQLCopyFile\obj\Debug\SQLCreateFile.dll
+D:\Project\C#\SQLCopyFile\SQLCopyFile\obj\Debug\SQLCreateFile.pdb
+D:\Project\C#\SQLCreareFile\SQLCopyFile\obj\Debug\AssemmbleCreateFile.csprojResolveAssemblyReference.cache
+D:\Project\C#\SQLCreareFile\SQLCopyFile\obj\Debug\SQLCreateFile.dll
+D:\Project\C#\SQLCreareFile\SQLCopyFile\obj\Debug\SQLCreateFile.pdb
+D:\Project\C#\SQLCreareFile\SQLCopyFile\bin\Debug\SQLCreateFile.dll
+D:\Project\C#\SQLCreareFile\SQLCopyFile\bin\Debug\SQLCreateFile.pdb
+d:\Project\C#\Assemmble_MSSQL\SQLCreareFile\SQLCopyFile\obj\Debug\AssemmbleCreateFile.csprojResolveAssemblyReference.cache
+d:\Project\C#\Assemmble_MSSQL\SQLCreareFile\SQLCopyFile\obj\Debug\SQLCreateFile.dll
+d:\Project\C#\Assemmble_MSSQL\SQLCreareFile\SQLCopyFile\obj\Debug\SQLCreateFile.pdb
+d:\Project\C#\Assemmble_MSSQL\SQLCreareFile\SQLCopyFile\bin\Debug\SQLCreateFile.dll
+d:\Project\C#\Assemmble_MSSQL\SQLCreareFile\SQLCopyFile\bin\Debug\SQLCreateFile.pdb

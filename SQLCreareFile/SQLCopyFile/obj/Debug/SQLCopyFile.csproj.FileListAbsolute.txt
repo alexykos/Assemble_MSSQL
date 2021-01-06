@@ -1,0 +1,4 @@
+D:\Project\C#\SQLCopyFile\SQLCopyFile\bin\Debug\SQLCopyFile.dll
+D:\Project\C#\SQLCopyFile\SQLCopyFile\bin\Debug\SQLCopyFile.pdb
+D:\Project\C#\SQLCopyFile\SQLCopyFile\obj\Debug\SQLCopyFile.dll
+D:\Project\C#\SQLCopyFile\SQLCopyFile\obj\Debug\SQLCopyFile.pdb

@@ -1,0 +1,5 @@
+D:\Project\C#\Assemmble_MSSQL\asmbl_mail_send\asmbl_mail_send\obj\Debug\asmbl_mail_send.csprojResolveAssemblyReference.cache
+D:\Project\C#\Assemmble_MSSQL\asmbl_mail_send\asmbl_mail_send\bin\Debug\asmbl_mail_send.dll
+D:\Project\C#\Assemmble_MSSQL\asmbl_mail_send\asmbl_mail_send\bin\Debug\asmbl_mail_send.pdb
+D:\Project\C#\Assemmble_MSSQL\asmbl_mail_send\asmbl_mail_send\obj\Debug\asmbl_mail_send.dll
+D:\Project\C#\Assemmble_MSSQL\asmbl_mail_send\asmbl_mail_send\obj\Debug\asmbl_mail_send.pdb
